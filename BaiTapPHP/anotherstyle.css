@@ -1,0 +1,29 @@
+.fb-login-button{
+    margin-left: 350px;
+    margin-top: 10px;
+}
+h3{
+    margin-left: 50px;
+}
+.form-group{
+    margin-left: 5px;
+    line-height: 80%;
+}
+input[type=email]{
+    width: 50%;
+}
+input[type=password]{
+    width: 50%;
+}
+.form-check{
+    margin-left: 10px;
+}
+h5{
+    margin-left: 70px;
+}
+header{
+    margin-left: 60px;
+}
+.content{
+    background-color: rgb(194, 240, 212);
+}
