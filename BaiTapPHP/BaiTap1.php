@@ -3,7 +3,7 @@ require('./path/header.php');
 ?>
 <body>
  <?php require('./path/nav.php');?>
- <div class="content">Đề bài:In các số lẻ và chẵn từ 1->50
+ <div class="content">Đề bài:In ra các số lẻ và chẵn từ 1->50
  <p>Giải:</p>
  <p>Các số lẻ :   
     <?php
